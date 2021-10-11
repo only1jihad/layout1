@@ -1,0 +1,67 @@
+.body-padding{
+	padding: 0px;
+	margin: 0px;
+}
+.header1{
+	height: 80px;
+	background-color: green;
+	
+}
+.wrapper{
+	overflow: hidden;
+}
+.contact{
+	height: 150px;
+	width: 60%;
+	background-color: darkcyan;
+	float: left;
+}
+.blog{
+	height: 150px;
+	width: 40%;
+	background-color: darkgray;
+	float: right;
+}
+.mid-sec{
+	overflow: hidden;
+}
+.sec1{
+	background-color: chocolate;
+}
+.sec2{
+	background-color: cyan;
+}
+.sec3{
+	background-color: darkgreen;
+}
+.all-sec{
+	height: 300px;
+	width: 33.33%;
+	float: left;
+}
+
+.mid-sec2{
+	overflow: hidden;
+}
+.sec-a{
+		background-color: darkred;
+}
+.sec-b{
+	background-color: gold;
+}
+.sec-c{
+	background-color: orangered;
+}
+.sec-d{
+	background-color: palevioletred;
+}
+.all-sec2{
+	height: 200px;
+	width: 25%;
+	float: left;
+}
+
+.footer{
+	height: 80px;
+	background-color: black;
+}
